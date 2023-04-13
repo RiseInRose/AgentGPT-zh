@@ -30,7 +30,7 @@ AgentGPT可以让你配置和部署自主AI代理。
 
 ## 感谢
 
-项目大部分翻译自[AgentGPT](https://github.com/reworkd/AgentGPT).  
+项目大部分翻译自[AgentGPT](https://github.com/reworkd/AgentGPT).  实际项目部署，请移步到[AgentGPT](https://github.com/reworkd/AgentGPT).  
 [英文版本demo体验地址](https://agentgpt.reworkd.ai/).  
 
 ## 国内交流群
