@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.deta.dev/badge?page_id=RiseInRose.autogpt&left_color=blue&right_color=green)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/reworkd/AgentGPT/main/public/banner.png?token=GHSAT0AAAAAAB7JND3U3VGGF3UYYHGYO4RAZBSDJAQ" height="300"/>
 </p>
@@ -22,15 +24,17 @@
 
 ---
 
-AgentGPT可以让你配置和部署自主AI代理。
-给你的定制AI命名，并让它追求任何想象得到的目标。
-它将尝试通过思考要做的任务、执行这些任务并从结果中学习来实现目标 🚀。
+AgentGPT可以让你配置和部署自主AI代理。   
+给你的定制AI命名，并让它追求任何想象得到的目标。   
+它将尝试通过思考要做的任务、执行这些任务并从结果中学习来实现目标 🚀。   
 
 ## 感谢
-项目大部分翻译自[AgentGPT](https://github.com/reworkd/AgentGPT)
-[英文版本demo体验地址](https://agentgpt.reworkd.ai/)
+
+项目大部分翻译自[AgentGPT](https://github.com/reworkd/AgentGPT).  
+[英文版本demo体验地址](https://agentgpt.reworkd.ai/).  
 
 ## 国内交流群
+
 群主会不定期发布 各类亮眼项目体验版本 供大家体验，星球会不定期发布一些商业化的 AI 工具。欢迎各位读者老爷，漂亮姐姐给我的项目点赞！
 
 |              直接加群               |                 如果前面的过期，加我拉你入群                  |                      知识星球                       |
